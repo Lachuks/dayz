@@ -1,4 +1,4 @@
-# 🔥[](https://img.shields.io/badge/DayZ-LINUX-green)
+# 🔥 sadasd [](https://img.shields.io/badge/DayZ-LINUX-green)
 
 # Download / Latest Release:
 * 
