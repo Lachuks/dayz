@@ -1,4 +1,4 @@
-# 🔥 sadasd [](https://img.shields.io/badge/DayZ-LINUX-green)
+# 🔥 Devil Z ![](https://img.shields.io/badge/DayZ-LINUX-green)
 
 # Download / Latest Release:
 * 
